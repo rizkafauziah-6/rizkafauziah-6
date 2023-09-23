@@ -1,0 +1,21 @@
+public class Rizka {
+public static void main(String[] args) {
+String nama = "Rizka Aulia Fauziah";
+int nim = 1237050075;
+int tgs = 90;
+int uts = 85;
+int uas = 90;
+double Na = tgs*30/100 + uts*30/100 + uas*40/100;
+
+System.out.println("===Data Nilai Mahasiswa ===");
+System.out.println("Nama :"+ nama);
+System.out.println("NIM :" + nim);
+System.out.println("Nilai Tugas :"+ tgs);
+System.out.println("Nilai UTS:" + uts);
+System.out.println("Nilai UAS:" + uas);
+System.out.println("Nilai Akhir :" + Na);
+System.out.println("==================");
+}
+}
+
+
