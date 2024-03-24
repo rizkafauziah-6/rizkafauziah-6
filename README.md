@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizkafauziah-6
 - 👀 I’m interested in write and data analysis
-- 🌱 I’m currently learning Basic programming at Sunan Gunung Djati State Islamic University Bandung
 - 💞️ I’m looking to collaborate on Code coding correctly
+-  the important point life is abt giving and receiving
 - 📫 How to reach me via Instagram DM @fauziahrizka6
 
 <!---
